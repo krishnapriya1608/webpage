@@ -1,0 +1,60 @@
+
+    *{
+        font-family: "Gupter", serif;
+    }
+    .col{
+        font-size: 50px;
+
+    }
+
+.roww{
+    margin-left: 380px;
+}
+.lov{
+    background-color: rgb(225, 214, 214);
+}
+.loll{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 25px;
+}
+.san{
+    font-size: 30px;
+}
+.sang img{
+    border-radius: 50%;
+    margin-left: 150px;
+}
+.iop{
+    text-decoration: none;
+    color:red;
+}
+.dan img{
+    border-radius:50%;
+    margin-top: 100px;
+}
+.ioop a{
+    text-decoration: none;
+    font-size: 16px;
+    color: red;
+    position: relative;
+    bottom: 40px;
+}
+.ioop i{
+    font-size: 16px;
+    color: red;
+    position: relative;
+    bottom: 38px;
+}
+.kol{
+   text-align: center;
+   margin-top: 20px;
+    background-color: rgb(200, 179, 179);
+}
+.mol{
+    display: flex;
+    justify-content: space-evenly;
+   padding: 10px;
+   background-color: rgb(200, 179, 179);
+}
